@@ -207,6 +207,3 @@ int main(int argc, char **argv)
 
     return EXIT_SUCCESS;
 }
-
-
-// g++ main.cpp -o psf_main `pkg-config --cflags --libs opencv4` -std=c++17
