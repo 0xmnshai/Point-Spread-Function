@@ -34,3 +34,4 @@ In this project:
 ### Compile
 ```bash
 g++ main.cpp -o psf_main `pkg-config --cflags --libs opencv4` -std=c++17
+./psf_main image_path
