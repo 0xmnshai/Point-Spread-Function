@@ -15,9 +15,9 @@ In this project:
 
 ## Example Outputs
 
-| PSF Kernel | PSF Applied | After Deconvolution |
+|  | PSF Applied | After Deconvolution |
 |-------------|--------------|---------------------|
-| ![PSF](https://github.com/0xmnshai/Point-Spread-Function/blob/main/psf.png) | ![Blurred](https://github.com/0xmnshai/Point-Spread-Function/blob/main/blurred.png) | ![Deconvoled](https://github.com/0xmnshai/Point-Spread-Function/blob/main/deconvoled.png) |
+|  | ![Blurred](https://github.com/0xmnshai/Point-Spread-Function/blob/main/blurred.png) | ![Deconvoled](https://github.com/0xmnshai/Point-Spread-Function/blob/main/deconvoled.png) |
 
 ### PSF Visualization on Image:
 ![PSF Image](https://github.com/0xmnshai/Point-Spread-Function/blob/main/psf_image.png)
